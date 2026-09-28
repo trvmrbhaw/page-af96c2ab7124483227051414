@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ce65fb2e03c5d8433100d4c9",
+  "owner": "trvmrbhaw",
+  "repo": "page-af96c2ab7124483227051414",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "af96c2ab7124483227051414",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7e3ddf4fd69df5681397698e08a67376a820ca8a7278d958e39ef84fe78fa13c",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云提供稳定VPN加速服务，支持多种设备，解锁流媒体，尊享高速节点。立即下载客户端体验！",
+          "AI_DESCRIPTION": "大哥云提供稳定VPN加速服务，支持多种设备，解锁流媒体，尊享高速节点。立即下载客户端体验！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --bg: #0A2540;\n            --accent: #00D4FF;\n            --text: #FFFFFF;\n            --card: #112244;\n        }\n        * { box-sizing: border-box; }\n        body {\n            margin: 0;\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--bg);\n            color: var(--text);\n            line-height: 1.6;\n        }\n        main { max-width: 1200px; margin: 0 auto; padding: 20px; }\n        h1 {\n            font-size: 2.8rem;\n            text-align: center;\n            padding: 1rem 0;\n            color: var(--accent);\n        }\n        .hero {\n            text-align: center;\n            padding: 4rem 0;\n            background: linear-gradient(to bottom, var(--bg), #001122);\n        }\n        .hero h2 {\n            font-size: 1.8rem;\n            margin-bottom: 1rem;\n        }\n        .intro {\n            padding: 2rem 0;\n            text-align: center;\n        }\n        .use-cases {\n            display: flex;\n            justify-content: center;\n            gap: 2rem;\n            flex-wrap: wrap;\n            padding: 2rem 0;\n        }\n        .use-cases ul {\n            list-style: none;\n            padding: 0;\n        }\n        .use-cases li {\n            background: var(--card);\n            padding: 1rem 1.5rem;\n            border-radius: 8px;\n            margin: 0.5rem;\n            color: var(--text);\n        }\n        .plans {\n            padding: 3rem 0;\n            text-align: center;\n        }\n        .faq {\n            padding: 3rem 0;\n        }\n        details {\n            background: var(--card);\n            margin: 1rem 0;\n            border-radius: 8px;\n            padding: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            color: var(--accent);\n        }\n        .cta {\n            text-align: center;\n            padding: 3rem 0;\n        }\n        button {\n            background: var(--accent);\n            color: var(--bg);\n            border: none;\n            padding: 1rem 2rem;\n            font-size: 1.1rem;\n            border-radius: 4px;\n            cursor: pointer;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2rem; }\n            .hero h2 { font-size: 1.5rem; }\n        }\n    </style>\n\n\n    <main>\n        <h1>大哥云</h1>\n        \n        <section class=\"hero\">\n            <h2>大哥云 - 稳定高速 VPN 加速</h2>\n            <p>解锁全球内容，优化网络延迟，享受无障碍上网体验</p>\n        </section>\n        \n        <section class=\"intro\">\n            <h2>欢迎使用大哥云</h2>\n            <p>大哥云是一款专注于提供安全稳定网络加速服务的品牌，致力于帮助用户畅享高速流畅的互联网体验。</p>\n        </section>\n        \n        <section class=\"use-cases\">\n            <h3>使用场景</h3>\n            <ul>\n                <li>流媒体平台解锁</li>\n                <li>在线游戏加速</li>\n                <li>远程办公网络</li>\n                <li>跨境购物加速</li>\n                <li>隐私保护</li>\n            </ul>\n        </section>\n        \n        <section class=\"plans\" id=\"plans\">\n            <h2>套餐对比</h2>\n            {{PLANS_HTML}}\n        </section>\n        \n        <section class=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>大哥云支持哪些设备？</summary>\n                <p>支持 Windows、macOS、iOS、Android 及浏览器扩展等多种主流设备。</p>\n            </details>\n            <details>\n                <summary>如何使用大哥云？</summary>\n                <p>下载客户端后，按照引导连接到优质节点即可使用。</p>\n            </details>\n            <details>\n                <summary>大哥云如何提供加速服务？</summary>\n                <p>通过优化路由和选择高速节点，实现稳定低延迟的网络连接。</p>\n            </details>\n            <details>\n                <summary>支持多人同时使用吗？</summary>\n                <p>是的，多种套餐可根据需求选择支持不同数量的设备同时在线。</p>\n            </details>\n            <details>\n                <summary>如何获取技术支持？</summary>\n                <p>提供优先工单支持，VIP 用户可获得专属服务。</p>\n            </details>\n        </section>\n        \n        <section class=\"cta\">\n            \n        </section>\n        \n        <section class=\"clients\">\n            <h2>用户信赖</h2>\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n\n",
+          "hash": "62befe01be39f9f3f32f8f19ce13365efac1bdcbcc7303f2ddefb608fc68b21a",
+          "seo": {
+            "title": "大哥云 - 高速 VPN 加速器 | 客户端下载",
+            "keywords": "大哥云,VPN,加速器,客户端下载,网络加速",
+            "description": "大哥云提供稳定VPN加速服务，支持多种设备，解锁流媒体，尊享高速节点。立即下载客户端体验！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xaykmfn.cn",
+    "host": "m.xaykmfn.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "xaykmfn.cn",
+      "url": "https://xaykmfn.cn/",
+      "label": "东方网络",
+      "apex": "xaykmfn.cn",
+      "kind": null,
+      "identity": "rveecqha9/page-d9fca93f4694e6eedcf3bd60"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1e1747e5bf6f1ca69d3cdaec086fde6508b0d9f553ca9641431234696f025636",
+    "sitemap.xml": "e92b2381359ad43c3eb99bd73d531bdc951dd801a1466ae2e535298956a939b9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a3d160e468ba19d9ed5cc550570447e0d42fe7dbed58177a2207150d41e29cf",
+    "robots.txt": "a99b0e439374389ef9a251337898e97502e5482eb165a39b5a036ee6788fd7ea",
+    "057b7d9bde04eefb25ea0be1bbc003fd.txt": "c4372ca65804bfd1acbb174d8489dfb39bb3753950227e5a4b5544eaa1a8e941"
+  },
+  "revision": "d79d5dccaed9adc325571b38aacd3c3e562825469efe21b7f0abc96165daa9a6"
+}
